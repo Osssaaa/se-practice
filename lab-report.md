@@ -1,6 +1,6 @@
 # Lab report — Practice #02: The Prompt Is an Engineering Input
 
-**Name:** Madi Adilet
+**Name:** Nurtayev Ospanali
 **Group:** Monday 16-19
 **Date:** 20.09.2026
 
