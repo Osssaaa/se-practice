@@ -46,5 +46,5 @@ The `isinstance(mark, bool)` check in `prompt_b.py` and `prompt_d.py` (I did not
 only learned that `True` counts as a number in Python while reading the code), and why the
 harness's tolerance of 0.01 lets B's unrounded `pass_rate=66.66666666666666` pass case 1.
 
-Signed: Madi Adilet
+Signed: Nurtayev Ospanali
 Date: 20.09.2026
