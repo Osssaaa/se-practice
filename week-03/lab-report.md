@@ -3,9 +3,9 @@
 Fill in every section. **Do not delete or renumber the headings** — the README points at them and a
 missing heading reads as a missing section.
 
-Name: Madi Adilet
-Student ID: 24B031062
-GitHub username: MadiAdilet
+Name: Nurtayev Ospanali
+Student ID: 24B031938
+GitHub username: Osssaaa
 
 ---
 
@@ -214,16 +214,16 @@ submission.yml — submission.yml
 ------------------------------------------------------------------------
 PASS   schema                                    1
 PASS   week                                      03
-PASS   student.name                              Madi Adilet
-PASS   student.student_id                        24B031062
-PASS   student.github                            MadiAdilet
+PASS   student.name                              Nurtayev Ospanali
+PASS   student.student_id                        24B031938
+PASS   student.github                            Osssaaa
 PASS   assistant.tool                            Claude
 PASS   assistant.model                           Claude Sonnet 5
 PASS   counts.user_stories                       6
 PASS   counts.acceptance_criteria_sets           3
 PASS   checker                                   23 PASS · 0 FAIL · 0ERROR
 NOTE   checker                                   you are claiming a clean run — it will be re-run at your commit, so make sure it is true
-PASS   checker.commit                            76dff5a
+PASS   checker.commit                            59a8b23
 PASS   assumptions.overlap_touching_bookings     allowed
 PASS   assumptions.exactly_two_hours             allowed
 PASS   traceability.use_cases_not_covered        UC-01, UC-05
@@ -238,7 +238,7 @@ PASS   honesty.ai_usage_disclosed                yes
 21 PASS · 0 FAIL · 0 ERROR · 1 note
 Shape is fine. This says nothing about whether the work is good.
 
-Commit these numbers were produced at (`git rev-parse --short HEAD`):76dff5a
+Commit these numbers were produced at (`git rev-parse --short HEAD`):59a8b23
 
 **Every FAIL, one line each: what it is and what you decided to do about it.** None this run.
 
